@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "hr_algorithm.h": "c",
+        "stdint.h": "c"
+    }
+}
